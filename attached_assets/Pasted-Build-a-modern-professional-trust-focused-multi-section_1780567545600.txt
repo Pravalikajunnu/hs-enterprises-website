@@ -1,0 +1,83 @@
+Build a modern, professional, trust-focused multi-section website for “HS Enterprises” — a car loan and financial services company operating across India.
+
+🎨 Design & Branding
+
+	•	Color scheme: Deep navy blue (#0A1F44) as primary, gold/amber (#D4A017) as accent, white and light grey for backgrounds. Clean, corporate, trustworthy feel.
+	•	Fonts: Use Google Fonts — Playfair Display for headings, Lato or Nunito for body text.
+	•	Style: Modern corporate. Clean layout, subtle shadows, smooth scroll, hover animations on cards/buttons. No clutter.
+	•	Logo: Text-based logo — “HS” in a bold navy badge with gold accent, followed by “Enterprises” in refined typography.
+
+📄 Page Sections (Single Page Website)
+
+1. Navbar
+
+	•	Logo left, nav links right: Home, Services, About, Contact
+	•	Sticky navbar with subtle shadow on scroll
+	•	Mobile hamburger menu
+
+2. Hero Section
+
+	•	Bold headline: “Your Trusted Loan Partner Across India”
+	•	Subheading: “Fast approvals, best rates, and complete financial solutions — from car loans to home loans.”
+	•	Two CTA buttons: “Apply Now” (gold, filled) and “Call Us Now” (navy, outlined)
+	•	Background: Deep navy gradient with a subtle geometric pattern or light car/city silhouette
+
+3. Services Section
+
+	•	Heading: “Our Services”
+	•	Display as a responsive grid of cards (3 columns desktop, 1–2 mobile), each with an icon, title, and 1-line description:
+	1.	🚗 New Car Loan
+	2.	🔄 Used Car Loan
+	3.	🏷️ Sale & Purchase
+	4.	💳 Refinance
+	5.	🔁 BT – Balance Transfer
+	6.	🔃 INT Balance Transfer
+	7.	✅ Pre-Approval
+	8.	👤 Personal Loans
+	9.	🏠 Home Loans
+	10.	🏢 Commercial Loans
+	•	Cards: white background, navy icon, gold hover border effect, slight lift on hover
+
+4. Why Choose Us Section
+
+	•	3–4 trust points in icon + text format:
+	•	✅ Fast Loan Approvals
+	•	🤝 Best Interest Rates
+	•	📋 Hassle-Free Documentation
+	•	🌐 Pan-India Service
+	•	Light grey background for contrast
+
+5. About Section
+
+	•	Heading: “Meet Our Leadership”
+	•	Two CEO profile cards side by side (centered on mobile):
+	•	Shiva Jakkula — Co-Founder & CEO
+	•	Harish Jakkula — Co-Founder & CEO
+	•	Simple card with name, title, placeholder avatar icon (no photo needed)
+	•	Brief company description: “HS Enterprises is a trusted financial services firm helping individuals and businesses across India secure the best loan deals — quickly and transparently.”
+
+6. Contact Section
+
+	•	Heading: “Get In Touch”
+	•	Display clearly:
+	•	📞 Call & WhatsApp: 6301595104 (make phone number a tel: link and WhatsApp a https://wa.me/916301595104 link)
+	•	📧 Email: shivajakkula59@gmail.com (mailto link)
+	•	Simple contact form: Name, Phone, Loan Type (dropdown of all services), Message, Submit button
+	•	Note under form: “We’ll get back to you within 24 hours.”
+
+7. Footer
+
+	•	Logo + tagline: “HS Enterprises — Loans Made Simple”
+	•	Quick links, contact info
+	•	Copyright: “© 2025 HS Enterprises. All rights reserved.”
+
+⚙️ Technical Requirements
+
+	•	Stack: HTML, CSS, JavaScript (or React if preferred)
+	•	Fully responsive (mobile-first)
+	•	Smooth scrolling between sections
+	•	WhatsApp floating button (bottom-right corner) that links to https://wa.me/916301595104
+	•	Basic form validation (required fields, valid phone format)
+	•	No backend needed — contact form can show a success message on submit
+	•	Use Font Awesome or Heroicons for service icons
+	•	Deploy-ready on Replit
