@@ -1,5 +1,5 @@
 {
   "buildCommand": "pnpm install --no-frozen-lockfile && pnpm --filter hs-enterprises build",
-  "outputDirectory": "hs-enterprises/dist",
+  "outputDirectory": "dist",
   "installCommand": "pnpm install --no-frozen-lockfile"
 }
